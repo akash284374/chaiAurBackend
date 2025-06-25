@@ -8,3 +8,27 @@ railway
 deploy
 ->digital ocean
 ->git pe push
+->app
+->select github
+->reprositry ka name
+->branch main
+Next
+
+edit plan
+basic
+$5
+
+environment variable
+Keys->PORT
+value->3000
+save
+overrides an app level variable
+DB_PASS hitesh
+Next
+create resource
+
+go to build logs
+
+deployed successfully
+APPS me ek url aayega
+usko change bhi kr skte h
