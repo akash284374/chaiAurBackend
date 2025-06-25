@@ -1,0 +1,10 @@
+Express->web framework for web
+
+
+digital ocean
+herecu
+railway
+
+deploy
+->digital ocean
+->git pe push
